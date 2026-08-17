@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.0](https://github.com/rolehippie/snapd/compare/v2.3.0...v2.4.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#58](https://github.com/rolehippie/snapd/issues/58)) ([dacbf05](https://github.com/rolehippie/snapd/commit/dacbf0599ba1d366d6c4188585ba2aa35a3e7468))
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#59](https://github.com/rolehippie/snapd/issues/59)) ([7f56b64](https://github.com/rolehippie/snapd/commit/7f56b6494c4d7a804abc8495e07911d2c9bba773))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#56](https://github.com/rolehippie/snapd/issues/56)) ([437ddef](https://github.com/rolehippie/snapd/commit/437ddef8ede26f817ca781c2e41c49f28dfd1054))
+* **patch:** update dependency pre-commit to v4.6.2 ([#57](https://github.com/rolehippie/snapd/issues/57)) ([d12e00d](https://github.com/rolehippie/snapd/commit/d12e00daf60d9f2c1c67f07ea9a6e4e3eb372453))
+
 ## [2.3.0](https://github.com/rolehippie/snapd/compare/v2.2.0...v2.3.0) (2026-08-10)
 
 ### Dependencies
