@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.4.1](https://github.com/rolehippie/snapd/compare/v2.4.0...v2.4.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#60](https://github.com/rolehippie/snapd/issues/60)) ([3dfbc96](https://github.com/rolehippie/snapd/commit/3dfbc967e2c4687a303a32c336245e30b0ef5dc4))
+
 ## [2.4.0](https://github.com/rolehippie/snapd/compare/v2.3.0...v2.4.0) (2026-08-17)
 
 ### Dependencies
